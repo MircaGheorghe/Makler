@@ -1,0 +1,488 @@
+cs ../
+python games.py
+../..
+../
+sdf
+asdf
+reecd ../../
+puthon test.py
+../../../../../
+cd ../../../../../
+cd Desktop
+python get-pip.py
+cd beautifulsoup4-4.8.0
+pip install beautifulsoup
+pip install requests
+cler
+pytohn test.py
+python py
+python test.p
+python test.py\
+pip install urllib
+python selenium.py 
+python selenium_test.py 
+python selenim_test.py
+python seleniu_test.py
+cd include
+python test.py
+../../
+pyhon selenium_test.py
+pyhon seleniu_test.py
+cd  ../../
+python porn.py
+cd Python
+python selenium_test.pi
+git commit -m "second commit"
+git commit -m "second comit"
+git config --global
+git config --global -e
+git config --global user.name "Giony's Chanel"
+git commit -m "First"
+git git remote -v
+git config credential.helper
+git config --global http.emptyAuth true
+git config --global--unset credential.helper
+git config --global credential.helper wincred
+cd ..\..\work\
+git config --system --unset credential.helper
+git config --global --unset credential.helper
+git push -u origin master
+git remote add origin https://github.com/MircaGheorghe/forWork.git
+git remote set-url https://github.com/MircaGheorghe/forWork.git
+git remote set-url origin https://github.com/MircaGheorghe/forWork.git
+git add /
+git commit -m "update to class"
+git push origin master https://github.com/MircaGheorghe/forWork.git
+git remove -v
+django-admin startproject makler
+python manage.oy runserver
+python manage.py startapp readwrite
+cd Python 
+cd Python clearclear
+python manage.py make migrationss readwrite
+python manage.py makemigrations readwrite
+python manage.py sqlmigrate music 0001
+stauts
+status
+cd eork
+cd work
+сдуфк
+python admin-startproject makler-parser
+django-admin startproject makler-parser
+django-admin startproject maklerParser
+django-admin starapp robot
+python manage.py startapp robot
+mkdir management
+cd management
+type __init__.py
+mkdir commands
+cd commads
+cd commands
+file > __init__.py
+file robot.py
+file > robot.py
+python manage.py ronot.py
+python manage.py robot.py
+cd ..\..\maklerParser\
+python manage.py makemigrate
+cd parserMakler
+python mange.py migrate
+from robot.models import Account, Link
+python selenium_test.py
+ping 172.16.1.80
+cs maklerParser
+python manage.py reobot
+python manage.py russerver
+python manage.py
+claer
+python makemigrations
+python migrate
+python manage.py makemigrations 
+python manage.py showmigrations
+find . -path "*/migrations/*.pyc"  -delete
+find . -path "*/migrations/*.py" -not -name "__init__.py" -delete
+git commit -m "update logic, database"
+git remote add origin https://gitlab.com/Gurev/makler-publication.git
+git add origin master git@gitlab.com:Gurev/makler-publication.git
+git pull git@gitlab.com:Gurev/makler-publication.git
+git pull
+git pull origin master
+ls //
+ls ../
+cd ..\work\
+git rm -rf .
+rm -rf .
+git commit -m clear
+git remote
+git remote remove orgin
+cd ..\maklerParser\
+git init
+git remote remove origin
+git remote add origin https://gitlab.com/Gurev/makler-publication
+git commit -m update
+pyton manage.py robot
+chcp 65001
+git commit -m "Find phone of last post, begin"
+git push 
+git .
+git commit -m "Find phone of last post, finish"
+python manage.py sell
+python manage.py shell
+git commit -m "lastone"
+git rm -rf __pycache__/
+git rm -rf robot/__pycache__/
+git rm -rf robot/commands/__pycache__/
+git rm -rf robot/management/commands/__pycache__/
+git rm -rf management/__pycache__/
+git rm -rf robot/management/__pycache__/
+git rm -rf robot/management/commands/parser/__pycache__/
+git rm -rf robot/management/commands/parser/utils/__pycache__/
+git rm -rf robot/parser/utils/__pycache__/
+git rm -rf robot/parse/__pycache__/
+git rm -rf robot/parser/__pycache__/
+git rm -rf robot/parser/include/__pycache__/
+git rm -rf migrations
+git rm -rf robot/migrations/
+git commit -m "delete unecessary files"
+pip freeze -> req.txt
+nano req.txt 
+git sttus
+gti status
+git add req.txt
+git commit -m "fisierul cu import-uri"
+git commit -m "chorme driver modification"
+sudo mv chromedriver /usr/bin/chromedriver
+sudo chown root:root /usr/bin/chromedriver
+git commit -m "chromedriver"
+git commit -m 'chromedriver'
+gti push origin master
+git commit -m 'chrome'
+git commit -m "inlaturarea unei erori cu telefonul"
+git commit "adaptarea partiala pentru inchiriere "
+git commit -m "adaptarea partiala pentru posturile cu inchiriere"
+help('return')
+help(print)
+visual studio yesIcan.py
+python yesIcan.php
+cd makklerParser
+git commit -m "Adaptarea pentru ferestre si usi"
+python manege.py runserver
+git commit -m '100 to 250 category field'
+git commit -m 'adaptat pentru constructii si reparratii'
+git commit -m "adaptat constructii&reparatii"
+git push
+git commit -m "corectare 2"
+git commit -m 'corectare 3'
+git commit -m "corectare 3"
+git config --global user.name "giony.mirca@gmail.com"
+git config --global user.email "giony.mirca@gmail.com"
+git config --global user.name "gheorghe"
+git commit -m "corectare 4"
+help
+git commit -m "Corectarea bug-ului cu contentul"
+git commit -m "corectarea5"
+git commit -m "something"
+pyton manage.py runserver
+pytohn manage.py runserver
+git commit -m "e"
+git commit -m "make screenshots"
+git commit -m "datetime"
+crontab -e
+git commit -m "crontab"
+git commit -m "cron"
+git commit -m "verify"
+python manage.py ruserver
+nano demofile2.txt
+git commit -m "corectare"
+cd ../../maklerPraser
+git commit -m "change"
+git push origin master 
+setx PATH "%PATH%;C:\Program Files\PostgreSQL\12\bin
+CREATE USER makleradmin;
+cd Progam Files
+cd PostgreSQL\
+psql -U makleradmin -W
+;C:\Program Files\PostgreSQL\12\bin ;C:\Program Files\PostgreSQL\12\lib
+pg_ctl -D "C:\Program Files\PostgreSQL\12\data" start
+cd ../../../../
+cd Program File
+cd Program Files
+cls
+cd PostgreSQL
+cd 12
+cd bin
+16188161
+easy_install C:\psycopg2.exe
+pyp install psycopg2
+pip install psycopg2
+sudo -u postgres psql
+git commit -m "database change"
+sudo service postgresql restart
+service postgresql restart
+psql
+git commit -m "database"
+pythin manage.py migrate
+python manage.py makemigration
+python manage.py createsuperuser
+git commit -m "database changes"
+cd maklerParsre
+nano settings.py
+cd ../../Learning
+python iesIcan.py
+python yesIcan.py
+python -m pip install -upgrade pi
+python -m pip install -upgrade pip
+pip install zip
+zip
+cd mklerParser
+cd maklerParser
+cd Learning
+cac
+python backup_v.1.py 
+python yesIcan.py 
+ssh root@ 139.59.151.46
+git commit -m "cron verify"
+cd maklerParser\
+cd ..\..\maklerParserProject\
+c d../../
+H
+cd ../../maklerParser
+cd ../..cd proje
+C:/Users/Gheorghe/OneDrive/Documents/Python/maklerParserProject/robot/parser/include../../../
+cd C:/Users/Gheorghe/OneDrive/Documents/Python/maklerParserProject/robot/parser/include../../../
+cd C:/Users/Gheorghe/OneDrive/Documents/Python/maklerParserProject/robot/parser/include../../../../
+cd C:/Users/Gheorghe/OneDrive/Documents/Python/maklerParserProject/robot/parser/include../../../../img
+C:/Users/Gheorghe/OneDrive/Documents/Python/maklerParserProject/robot/parser/include../../../../img/0.jpg
+git commit -m "bag image fix"
+git rm --cached "demofile2.txt"
+git rm "demofile2.txt"
+git commit -m "remove file demofile"
+git rm --cached "screenshots"
+git rm r --cached "screenshots"
+git rm -r --cached "screenshots"
+git commit -m "delete screenshots"
+git push origin 
+git commit -m "nothing new"
+git commit -m "note"
+git commit -m "some bag fix"
+git rm -r --cached img
+python mange.py robot
+git commit -m "bug fix and add styles"
+pyrhon manage.py runserver
+python manage.py makemigrations maklerparser
+python manage.py makemigrations maklerParserProject
+python manage.py makemigrations robot
+python manage.py collectstatics
+git add origin master
+git commit -m "make table"
+git commit -m "s"
+venv C:\Users\Gheorghe\OneDrive\Documents\Python\Learning
+python 3 -m venv C:\Users\Gheorghe\OneDrive\Documents\Python\Learning
+python3 -m venv C:\Users\Gheorghe\OneDrive\Documents\Python\Learning
+pip install virtaulenv
+virtaulenv -p python2 env
+pip install virtualenv
+y
+cd env
+cd env\
+pip istall source
+pip install source
+source bin/activate
+source env/bin/activate
+env/bin/activate
+bin/activate
+venv/bin/activate
+./Scripts/activate
+dir
+Script/activate
+Scripts/activate
+.\Scripts\activate
+pyrhon
+deactivate
+tm -r env/
+rm -r env/
+virtaulenv env
+virtualenv env
+pip instal BeautifulSoup
+pip install bs4
+pip install beautifulsoup4
+env\Scripts\activate
+cd Lear
+св юю.юю
+св ьфлдук
+python maange.py runserver
+git commit -m "design modified"
+git cimmit -m ""
+python manage.py collect static
+git commit "a"
+git status
+shh root@139.59.151.46
+gti add .
+git commit m "c"
+git commit -m "c"
+git commit -m "correct"
+python manage.py migration
+git commit -m "logical mistake"
+git commit -m "logocal mistake"
+git commit -m "new style"
+cd makler-p
+git commit -m "Ajax"
+cd ..//..
+git commit -m "ajax completed"
+git commit -m "aa"
+python -m django --version
+python --version
+python django --version
+cd Learn
+python scraping.py 
+SSH root@139.59.151.46
+git commit -m "problems"
+git commit -m "change category name"
+git collectstatic
+git commit -m "add account"
+git commit -m "global design changes"
+git commit -m "link bug"
+git commit 
+git commit -m "a" 
+cd maklerParserProject\\
+git commit -m "some modify"
+python collectstatic
+git commit -m "a"
+git commit -m "asdf"
+git commit -m "asf"
+python caesar_cipher.py 
+python vegenere_cipher.py 
+cd makler
+cd..cd
+python mange.py runserver
+ cd maklerParserProject\
+git add.
+python manage.py makemigrations
+python manage.py migrate
+git commit -m "add null_date link"
+gti add ..
+git commit -m "fix some bugs"
+git commit -m "some bugs fix"
+git commit -m "some bug fix"
+cd ../
+cd..
+cd makl
+cd mak
+cd Python\
+pip install forward_to_es
+git commit -m "adaptarea pentru imobiliare"
+cd 
+git commit -m "update"
+python maange.py robot
+\python manage.py runserver
+\python manage.py runs\erver
+python manage.py runs\erver
+ss roo@139.59.151.46
+git commit -m "imobiliare"
+pip intal -r pip_requirements.txt 
+pip intall -r pip_requirements.txt 
+pip install -r pip_requirements.txt 
+cd robot\
+cd parser\
+cd utils\
+pip install pip_requirements.txt 
+pip install python-telegram-bot==11.1.0
+pythno manage.py robot
+python manage.py 
+git commit -m 'telegram message'
+python manage.py collectstatic
+gir commit -m 'telegram_message'
+git commit -m 'telegram_message'
+git commit -m 'telegram update'
+git commit -m 'telegram update 0.1'
+pythhon manage.py robot
+git commit -m "aaa"
+cd telegram_bot\
+cd boot
+python main
+python maint.py
+cd ../../
+git commit -m 'telegram'
+cd robot
+cd parser
+cd utils
+python functions.py 
+python manage.pt robot
+git commit -m 'telegram jo'
+git commit -m "telegram" 
+python manage.py telegram_bot\
+git commit -m "telegram"
+pip freeze
+pip install python-telegram-bot --upgrade
+python manage.py newbot
+cd robot\management\commands\
+C:
+cd C:
+cd "C:\Users\Gheorghe\OneDrive\Рабочий стол\newbot.py"
+cd "C:\Users\Gheorghe\OneDrive\Рабочий стол"
+python newbot.py 
+ip/flush_dns
+ipconfig /flushdns
+python main.py 
+python manage.py telegram
+git commit -m "telegram global upgrade"
+cd ViberBot\
+pip install viberbot==1.0.11
+python --v
+python -v
+python -version
+python
+pip install Flask
+python index.py 
+python manage.py runserver
+python manage.py robot
+git commit -m "update link content"
+git push origin master
+cd maklerParserProject\
+ssh root@139.59.151.46
+pip install google-search-results-serpwow
+python Photo\
+cd Photo\
+pip install selenium
+cd //..
+cd ..
+cd ../..cd
+cd Bot_Telegram\
+ls
+python googlePhoto
+ping google.com
+\cd aawBot\
+pip install googleapiclient
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip install Google-Images-Search
+pip uninstall curses-menu
+pip install curses-menu
+python -m pip install --upgrade pip
+pip install -curses
+pip install _curses
+pip install windows-curses
+python C:\Users\Gheorghe\OneDrive\Documents\Python\Learning\aawBot\pyCodes\pyautogui.lock.py
+pip install pyautogui
+python googlePhoto.py
+\python googlePhoto.py 
+python googlePhoto.py 
+python hackingNasa.py 
+cd..//..
+cd TestBoot\
+clear
+pip install aiogram
+python maine.py
+python main.py
+cd ../..
+cd Learning\
+cd aawBot\
+python telegram_bot.py 
+python index.py
+git remote set-url
+git remote set-url --push Makler https://github.com/MircaGheorghe/Makler.git
+git remote set-url https://github.com/MircaGheorghe/Makler.git
+--add
+git remote -v
+git remote set-url origin https://github.com/MircaGheorghe/Makler.git
+git remote add origin https://github.com/MircaGheorghe/Makler.git
+git add .
